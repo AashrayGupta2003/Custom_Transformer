@@ -62,12 +62,12 @@ PRETRAINED_VOCAB_FILES_MAP = {
 }
 
 PRETRAINED_POSITIONAL_EMBEDDINGS_SIZES = {
-    "distilbert-base-uncased": 512,
-    "distilbert-base-uncased-distilled-squad": 512,
-    "distilbert-base-cased": 512,
-    "distilbert-base-cased-distilled-squad": 512,
-    "distilbert-base-german-cased": 512,
-    "distilbert-base-multilingual-cased": 512,
+    "distilbert-base-uncased": 200,
+    "distilbert-base-uncased-distilled-squad": 200,
+    "distilbert-base-cased": 200,
+    "distilbert-base-cased-distilled-squad": 200,
+    "distilbert-base-german-cased": 200,
+    "distilbert-base-multilingual-cased": 200,
 }
 
 
